@@ -1,0 +1,35 @@
+.product{
+
+    display: flex;
+    flex-direction: row;
+    height: 30vh;
+}
+
+.product_text{
+    display: flex;
+    flex-direction: column; /* 자식 요소들을 세로로 배열합니다 */
+    width: 70%;
+    height: 100%
+}
+
+.prodcut_title{
+    font-size: 3vh;
+}
+
+.product_detail{
+
+
+    font-size: 2vh;
+
+}
+.product_price{
+    align-items: flex-end;
+    margin-top: 10px;
+    font-size: 2vh;
+}
+
+.product_img{
+
+    width: 30%;
+    height: 100%;
+}

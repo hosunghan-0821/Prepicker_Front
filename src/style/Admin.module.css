@@ -1,0 +1,26 @@
+.admin_page{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 100%;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    height: 95%;
+}
+
+.sidebar{
+   padding: 10px;
+    width: 15%;
+}
+.main_content{
+    height: 100%;
+    width: 80%;
+    background-color: antiquewhite;
+}
+.content_container{
+    padding: 10px;
+    height: 100%;
+    background-color: white;
+}

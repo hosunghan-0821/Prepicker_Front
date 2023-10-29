@@ -1,0 +1,12 @@
+.header{
+    margin: 10px auto;
+    width:90%;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* 수평 가운데 정렬 */
+    align-items: center; /* 수직 가운데 정렬 */
+    background-color: cornflowerblue;
+    color:white;
+    height:5%;
+}
